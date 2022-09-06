@@ -18,7 +18,4 @@ Source code for the performed simulations
 Source Data  
 
 ### [Supplemental](../master/Supplemental)
-#### [SDS-PAGE](../master/Supplemental/SDS-PAGE)  
-Images of Gels and SigmaPlot Notebook to estimate total EAAT2 protein amount.
-#### [transfectionrate](../master/Supplemental/transfectionrate)  
-Confocal images and SigmaPlot Notebook to estimate transfection rates.
+
