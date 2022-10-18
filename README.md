@@ -29,3 +29,8 @@ Source Data for plots in Figure S3
 ### [FigS4](../master/FigS4)
 Source Data for plots in Figure S4
 
+### [FigS5](../master/FigS5)
+Source Data for plots in Figure S5
+
+### [FigS6](../master/FigS6)
+Source Data for plots in Figure S6
